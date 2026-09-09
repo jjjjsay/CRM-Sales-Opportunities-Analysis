@@ -13,11 +13,15 @@ A data-quality issue was also identified and corrected during this analysis: the
 
 The recommendations that follow focus on three levers the business can act on directly: reversing the win-rate decline, closing the agent performance gap through targeted coaching, and reallocating sales focus toward the products and regions with the best return per opportunity.
 
-###Business Problem
+### Business Problem
 Sales leadership can see that deals are closing, but not why some regions, agents, and products consistently outperform others, or why performance seems to be softening over the course of the year. Without this visibility, management is limited to reactive, anecdotal coaching rather than targeted, data-backed intervention. The stakeholders below need answers to four connected questions before the next planning cycle:
 
 ●	Team performance — How does each sales team (regional office and manager) compare, and is the gap between the best and worst performers wide enough to justify reallocating headcount or coaching resources?
+
 ●	Agent performance — Which individual agents are lagging, and is it a volume problem (too few deals), a conversion problem (low win rate), or both?
+
 ●	Time trends — Is quarter-over-quarter performance improving, flat, or declining, and does that trend say something about the pipeline, the team, or the season?
+
 ●	Product performance — Do any products convert meaningfully better or worse than others, and should sales effort be redirected accordingly?
+
 The intended audience for this analysis is sales leadership and regional managers who need a clear, evidence-based view of where to focus limited coaching and pipeline-management effort over the next two quarters.
