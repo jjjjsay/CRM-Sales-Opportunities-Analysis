@@ -87,6 +87,7 @@ Central	2,604	62.6%	$3.35M	$2,054
 East	1,858	63.0%	$3.09M	$2,639
 
 West leads on both revenue and win rate despite handling fewer deals than Central, and East posts the highest average deal size of any office — suggesting East's agents are working a smaller number of higher-value opportunities. Central handles the most volume (2,604 deals) but converts at the lowest rate (62.6%) and has the smallest average deal size, making it the office with the most room for coaching-driven improvement: closing Central's win-rate gap to West's level alone would be worth roughly $135K in incremental won revenue on its existing pipeline.
+
 2. Are Any Sales Agents Lagging Behind?
 Yes — and the gap is large enough to matter. Plotting each of the 30 agents by win rate and revenue (bubble size = deals worked) makes the pattern clear: a cluster of agents sits well below the 63.5% company-average win rate line, and it is not simply the agents with fewer deals.
 
@@ -128,3 +129,27 @@ MG Special	MG	1,223	64.8%	$0.04M
 
 GTX Pro and GTX Plus Pro together account for 61% of all won revenue ($6.14M of $10.0M) and both convert above the company average — they are the business's clear anchor products. MG Advanced is the concerning outlier: it is the second-highest-volume product (1,084 deals closed) but converts 3 points below the company average at 60.3%. Closing that gap to the 63.2% company average would be worth approximately $110K in additional won revenue from the same pipeline, with no increase in deal volume required. GTK 500 is a small-volume, high-price outlier (only 25 deals, but a $26,768 list price) and MG Special is the inverse — highest win rate of any product (64.8%) but negligible revenue impact ($55 list price) — useful as a low-friction entry product but not a revenue lever.
 
+
+### Business Recommendations
+
+●	1. Diagnose and reverse the win-rate decline immediately. This is the highest-priority finding: win rate fell 22 points over three quarters while volume held steady. Pull a monthly (not just quarterly) win-rate trend, segmented by agent tenure and by whether the agent was a Q1 hire or already active, to confirm whether this is a technique-drift issue, a change in lead quality, or a mix-shift toward newer agents. Treat this as the top item for the next sales leadership review.
+
+●	2. Build a targeted coaching plan around the five lowest win-rate agents. Lajuana Vencill, Markita Hansen, Donn Cantrell, Gladys Colclough, and Niesha Huffines are working adequate deal volume but converting 6–14 points below average. Pair each with a top performer from the same office for shadowing/call review over one quarter, and re-measure win rate at the 90-day mark.
+
+●	3. Investigate the Central office's lower conversion rate. Central handles the most deal volume (2,604) but has the lowest win rate (62.6%) and smallest average deal size ($2,054) of the three offices, and three of the five weakest agents sit there. Review Central's lead qualification and deal-sizing process specifically, rather than assuming the gap is agent-level noise.
+
+●	4. Address the MG Advanced conversion gap. At 60.3% versus a 63.2% company average on 1,084 deals, MG Advanced is underperforming its volume. A ~$110K revenue opportunity exists simply by bringing its win rate in line with the company average — worth a focused review of its pitch, pricing, or competitive positioning.
+
+●	5. Protect and expand focus on GTX Pro and GTX Plus Pro. These two products already generate 61% of won revenue at above-average win rates. Prioritizing them in top-of-funnel targeting and agent training will compound existing strength rather than spread effort thinly across the full product line.
+
+●	6. Fix the product-name data-quality issue at the source. “GTXPro” vs. “GTX Pro” silently hid the company's top product from every existing product report. This should be corrected in the CRM's data entry validation (e.g., a dropdown instead of free text) so future analysis doesn't require this manual fix.
+
+### Next Steps
+
+●	Short term (this quarter): Share the monthly win-rate breakdown with sales leadership to pin down the cause of the Q1–Q4 decline; launch the five-agent coaching pairing program; open a review of MG Advanced's pitch/pricing.
+
+●	Medium term (next 1–2 quarters): Re-measure win rate by agent, office, and product after the coaching program to confirm impact; extend the same diagnostic framework to 2018 data once available to test whether the decline continued, stabilized, or reversed.
+
+●	Longer term / data infrastructure: Fix the product-name entry issue in the CRM; add a lightweight monthly dashboard (regional, agent, and product win rate vs. a rolling average) so declines like the one found here are caught in weeks, not after a full year of data.
+
+●	Analytical extensions: This analysis did not have deal-size/company-size data joined at the opportunity level in depth — a natural follow-up is testing whether win rate varies by account size or sector beyond the aggregate view shown here, and whether the Q1 baseline quarter reflects a genuinely different, smaller cohort of accounts worth understanding on its own.
