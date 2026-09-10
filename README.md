@@ -72,12 +72,14 @@ This project was used as a practical exercise across the following areas:
 Pipeline Overview
 Of 8,800 total opportunities, 6,711 have closed (76%) and 2,089 remain open (24%). Among closed deals, the company wins 63.2% of the time, generating $10.0M in total revenue at an average deal size of $2,361. Won deals take longer to close than lost ones — 51.8 days versus 41.5 days on average — which is expected: deals that are ultimately lost tend to be disqualified or abandoned earlier, while deals that convert go through a fuller negotiation cycle.
 <img width="734" height="353" alt="image" src="https://github.com/user-attachments/assets/d797bd8d-4892-4487-8b1b-6b4d522540ca" />
+
 Figure 1. Pipeline composition across all 8,800 opportunities, October 2016–December 2017.
 
 1. Regional Office Performance
 All three regional offices perform within a narrow band — no office is dramatically underperforming, but the ranking is consistent and revenue-meaningful.
 
 <img width="734" height="411" alt="image" src="https://github.com/user-attachments/assets/d780b76e-38df-40b0-b91a-d7d408aa3e3a" />
+
 Figure 2. Revenue won and win rate by regional office.
 Regional Office	Closed Deals	Win Rate	Revenue Won	Avg Deal Size
 West	2,249	63.9%	$3.57M	$2,482
@@ -89,6 +91,7 @@ West leads on both revenue and win rate despite handling fewer deals than Centra
 Yes — and the gap is large enough to matter. Plotting each of the 30 agents by win rate and revenue (bubble size = deals worked) makes the pattern clear: a cluster of agents sits well below the 63.5% company-average win rate line, and it is not simply the agents with fewer deals.
 
 <img width="734" height="489" alt="image" src="https://github.com/user-attachments/assets/528d0211-0d7d-4f0f-aa05-b2f33a7c7140" /> 
+
 Figure 3. Agent win rate vs. revenue won; bubble size reflects deal volume.
 
 Agent	Regional Office	Deals	Win Rate	Revenue Won
@@ -99,16 +102,20 @@ Gladys Colclough	Central	232	58.2%	$345,674
 Niesha Huffines	Central	175	60.0%	$176,961
 
 These five agents are carrying deal volumes in line with or above the company median (175–275 deals each) but converting 6–14 points below the 63.2% company average. That combination — adequate volume, low conversion — points to a coaching and technique gap rather than a territory or lead-quality problem, since these agents are clearly being given opportunities to work. Notably, three of the five bottom performers by win rate sit in the Central office, reinforcing the regional finding above. Separately, Violet Mclelland and Wilburn Farren post the lowest total revenue despite decent win rates (63.2% and 69.6%), because they are working the fewest deals overall (193 and 79) — a pipeline-volume issue rather than a conversion issue, and a different kind of intervention.
+
 3. Quarter-over-Quarter Trends
 This is the most urgent finding in the dataset. Win rate has declined every quarter since Q1 2017, from 82.1% down to 60.3% by Q4 — a 22-point drop — even though deal volume stayed roughly flat (2,032 to 1,985 closed deals per quarter from Q2 onward). Revenue has softened in step, falling from $3.09M in Q2 to $2.80M in Q4.
 
 <img width="734" height="411" alt="image" src="https://github.com/user-attachments/assets/58c99a22-b6af-40de-a2ec-6c73cdf4530d" /> 
+
 Figure 4. Quarterly revenue won and win rate, 2017. (Q1 reflects a smaller early cohort as the pipeline ramped up and should be read as a baseline rather than a directly comparable quarter.)
 Because deal volume didn't drop while win rate did, the decline is best explained by conversion — how effectively opportunities are being closed — rather than a shrinking pipeline. This is consistent with, and likely connected to, the agent-level gaps identified above: if underperforming agents are absorbing a growing share of the pipeline over the year, or if the whole team's technique has drifted without reinforcement, the aggregate win rate would erode exactly like this. This trend deserves the highest priority of any finding in this report, since a continued decline at the current rate would erase another 10–15 points of win rate by mid-2018.
+
 4. Product Win Rates
 Product-level win rates cluster tightly between 60% and 65%, but the revenue each product generates is highly uneven — and the two dimensions don't always move together.
 
 <img width="734" height="433" alt="image" src="https://github.com/user-attachments/assets/e1c50b18-0e74-4f7f-a43a-6df02a2f4c57" /> 
+
 Figure 5. Win rate by product, with total revenue won shown alongside each bar.
 Product	Series	Deals Closed	Win Rate	Revenue Won
 GTX Pro	GTX	1,147	63.6%	$3.51M
