@@ -50,3 +50,19 @@ Analytical Approach
 ●	Quarterly trend uses close_date to bucket deals into calendar quarters; Q1 2017 reflects a smaller, earlier cohort of the pipeline and is noted as a lower-volume baseline quarter rather than treated as equivalent to the fuller Q2–Q4 quarters.
 
 All analysis was performed in Python (pandas for data manipulation, matplotlib for visualization) on the full population of 8,800 opportunities — no sampling was used.
+
+
+### Skills Demonstrated
+
+This project was used as a practical exercise across the following areas:
+
+●	Data wrangling: multi-table joins, detecting and resolving a real-world entity-resolution issue (product name mismatch), handling missing and open-pipeline data appropriately rather than dropping it.
+
+●	Exploratory & diagnostic analysis: cohort segmentation by region, manager, agent, product, sector, and time period; funnel and conversion-rate analysis; sales-cycle-length comparison.
+
+●	Data visualization: designed a consistent chart system (dual-axis revenue/win-rate views, ranked bar charts, bubble scatter for two-dimensional agent comparison) built to make the underlying finding, not just the number, immediately legible.
+
+●	Business translation: converting statistical findings (e.g., a 3-point win-rate gap on a specific product) into dollar-quantified, prioritized recommendations that a sales leader can act on without further analysis.
+
+●	Tools: Python (pandas, matplotlib), CSV/relational data modeling, Microsoft Word report authoring.
+
