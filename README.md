@@ -6,7 +6,6 @@ accounts. Diagnoses team/agent performance, quarter-over-quarter trends, and
 product win rates, and turns the findings into prioritized business
 recommendations.
 
-**[Read the full write-up (PDF/DOCX report)](./CRM_Sales_Opportunities_Analysis.docx)**
 
 ## Key findings
 
